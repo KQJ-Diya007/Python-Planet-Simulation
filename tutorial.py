@@ -121,8 +121,5 @@ def main():
 			planet.draw(WIN)
 
 		pygame.display.update()
-
 	pygame.quit()
-
-
 main()
